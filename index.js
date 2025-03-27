@@ -4,9 +4,9 @@ function szoveg(szam){
     const szamok = {
         0: "nulla",
         1: "egy",
-        2: "ketto",
-        3: "harom"
+        2: "kettő",
+        3: "három"
     };
-    
+
 
 }
