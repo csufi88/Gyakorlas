@@ -9,11 +9,11 @@ switch (szoveg(szam)) {
         console.log("ok");
         
         break;
-    case "ketto":
+    case "kettő":
         console.log("ok");
         
         break;
-    case "harom":
+    case "három":
         console.log("ok");
         
         break;
